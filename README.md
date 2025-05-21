@@ -1,1 +1,2 @@
-SQL QUESTION 1
+SQL QUESTION 1-exam.sql
+SQL QUESTION 2-exam02.sql
